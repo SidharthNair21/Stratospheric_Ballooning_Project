@@ -1,3 +1,5 @@
+_In collaboration with @CptnSapphire246_
+
 Before uploading the code, ensure that the PICOLO flight computer has been properly set up. Refer to _LeBalloon_Information.md_.
 
 Note that only two folders are needed to run the PICOLO flight code: _Libraries_ and _PICOLOv1_; _ESC_Controller_ and _TestStand_Thrust_ are not required however, they have been included to provide further information on how the propeller and the test stand function independently. _PICOLOv1_ has been included directly, but the libraries are not. These include:
