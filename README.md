@@ -1,4 +1,4 @@
-_In collaboration with @CptnSapphire246_
+_In collaboration with [Nishanth Kavuru](https://github.com/CptnSapphire246/CSE-1012-Stratospheric-Ballooning-Team-LeBalloon-Flight-Code)_
 
 Before uploading the code, ensure that the PICOLO flight computer has been properly set up. Refer to _LeBalloon_Information.md_.
 
